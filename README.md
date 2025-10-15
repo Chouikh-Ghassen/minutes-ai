@@ -25,6 +25,6 @@ This project uses a real meeting sample from the
 Since the full dataset is very large (over **3,500 hours** of meetings), we provide **one example audio file** that can be used for testing the model without downloading the entire dataset.
 
 To make testing easier, a copy of this example audio file is included in this repository.  
-
+[Audi_file: denver_meeting_file.mp3](https://drive.google.com/file/d/1-R5EBNuebkcH_3gbTJXLpoqN30ZcGt95/view?usp=drive_link)
 
 MIT License © 2025 [Chouikh Ghassen](https://github.com/Chouikh-Ghassen)
