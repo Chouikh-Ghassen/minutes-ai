@@ -26,5 +26,13 @@ Since the full dataset is very large (over **3,500 hours** of meetings), we prov
 
 To make testing easier, a copy of this example audio file is included in this repository.  
 [Audio_file: denver_meeting_file.mp3](https://drive.google.com/file/d/1-R5EBNuebkcH_3gbTJXLpoqN30ZcGt95/view?usp=sharing)
+After downloading, upload it to your Google Drive and reference it in Colab:
+
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+audio_filename = "/content/drive/MyDrive/denver_meeting_file.mp3"
+```
+
 
 MIT License © 2025 [Chouikh Ghassen](https://github.com/Chouikh-Ghassen)
