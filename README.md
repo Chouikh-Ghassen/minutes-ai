@@ -20,11 +20,9 @@ Upload or record meeting audio, and get clean, structured minutes with summaries
 ## 🗂️ Dataset Source
 
 This project uses a real meeting sample from the  
-[MeetingBank dataset](https://huggingface.co/datasets/huuuyeah/meetingbank) — a benchmark collection of U.S. city-council meetings with transcripts and summaries.
+[MeetingBank dataset](https://huggingface.co/datasets/huuuyeah/MeetingBank_Audio) — a benchmark collection of U.S. city-council meetings with transcripts and summaries.
 
 Since the full dataset is very large (over **3,500 hours** of meetings), we provide **one example audio file** that can be used for testing the model without downloading the entire dataset.
-
-📥 The original meeting audio is publicly available on [Zenodo](https://zenodo.org/records/7989108), as part of the official MeetingBank release.
 
 To make testing easier, a copy of this example audio file is included in this repository.  
 
