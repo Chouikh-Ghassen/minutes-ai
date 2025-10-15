@@ -34,5 +34,31 @@ drive.mount('/content/drive')
 audio_filename = "/content/drive/MyDrive/denver_meeting_file.mp3"
 ```
 
+## 🧾 Dataset Acknowledgement
+
+This project uses data from the [MeetingBank dataset](https://huggingface.co/datasets/huuuyeah/meetingbank),  
+created by **Yebowen Hu, Tim Ganter, Hanieh Deilamsalehy, Franck Dernoncourt, Hassan Foroosh, and Fei Liu**,  
+and presented in the paper:
+
+> **MeetingBank: A Benchmark Dataset for Meeting Summarization**  
+> *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada.*
+
+If you use this dataset, please cite it as follows:
+
+```bibtex
+@inproceedings{hu-etal-2023-meetingbank,
+    title = "MeetingBank: A Benchmark Dataset for Meeting Summarization",
+    author = "Yebowen Hu and Tim Ganter and Hanieh Deilamsalehy and Franck Dernoncourt and Hassan Foroosh and Fei Liu",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)",
+    month = July,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics"
+}
+```
+
+
+
+
 
 MIT License © 2025 [Chouikh Ghassen](https://github.com/Chouikh-Ghassen)
