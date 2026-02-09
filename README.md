@@ -34,7 +34,7 @@ drive.mount('/content/drive')
 audio_filename = "/content/drive/MyDrive/denver_meeting_file.mp3"
 ```
 
-## 🧾 Dataset Acknowledgement
+## Dataset Acknowledgement
 
 This project uses data from the [MeetingBank dataset](https://huggingface.co/datasets/huuuyeah/meetingbank),  
 created by **Yebowen Hu, Tim Ganter, Hanieh Deilamsalehy, Franck Dernoncourt, Hassan Foroosh, and Fei Liu**,  
