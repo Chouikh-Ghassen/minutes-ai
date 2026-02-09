@@ -1,23 +1,23 @@
-# Minutes AI 🧠🎙️
+# Minutes AI
 
 AI-powered meeting minutes generator built with **Whisper** and **LLaMA 3**.  
 Upload or record meeting audio, and get clean, structured minutes with summaries, discussion points, and action items.
 
 ---
 
-## 🚀 Run it in Google Colab
+## Run it in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chouikh-Ghassen/minutes-ai/blob/main/minutes_ai.ipynb)
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 - **Whisper** → automatic speech-to-text transcription  
 - **LLaMA 3** → summarization and minute generation  
 - **Gradio** → interactive web UI  
 
 ---
 
-## 🗂️ Dataset Source
+## Dataset Source
 
 This project uses a real meeting sample from the  
 [MeetingBank dataset](https://huggingface.co/datasets/huuuyeah/MeetingBank_Audio) a benchmark collection of U.S. city-council meetings with transcripts and summaries.
